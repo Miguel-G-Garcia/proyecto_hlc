@@ -61,7 +61,8 @@
 							</li>
 
 							<li><a class="dropdown-item" href="list_Reservs.php">Listado de Reservas</a></li>
-							<li><a class="dropdown-item" href="#">Buscar Reserva por id</a>
+							<li><a class="dropdown-item" href="find_reservation_id.php">Buscar Reserva por id</a>
+							<li><a class="dropdown-item" href="find_reservation_client.php">Buscar Reserva por cliente</a>
 							</li>
 						</ul>
 					</li>
