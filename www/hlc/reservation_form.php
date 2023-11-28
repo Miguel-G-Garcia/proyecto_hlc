@@ -1,4 +1,15 @@
 <?php 
+require_once("funcionesBD.php");
+$conexion = obtenerConexion();
+
+$sql = "SELECT * FROM clients;";
+
+$result = mysqli_query($conexion, $sql);
+$option = "";
+while($row = mysqli_fetch_assoc($result)){
+  $option .= "<option value='" . $row['client_id']. "'>" . $row['client_id'] . "</option>";
+}
+
   include_once 'menu.php'
 ?>
   <div class="container mx-auto mt-5 p-2">
@@ -11,7 +22,10 @@
               <i class="fa fa-address-card"></i>
             </div>
           </div>
-          <input id="txtClientId" name="txtClientId" type="text" required="required" class="form-control">
+          <select name="txtClientId" id="txtClientId" class="form-select" aria-label="Default select example">
+			<option value=""></option>
+		  	<?php echo $option;?>
+          </select>
         </div>
       </div>
       <div class="form-group">

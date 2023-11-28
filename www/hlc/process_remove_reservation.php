@@ -18,7 +18,7 @@ if (mysqli_errno($conexion) != 0) {
 
 } else {
     // Prototipo responder($datos,$error,$mensaje,$conexion)
-    $message="<h2>Datos eliminados</h2>";
+    $message="<h2>Datos de la reserva eliminados</h2>";
 }
 
 header( "refresh:5;url=index.php" );

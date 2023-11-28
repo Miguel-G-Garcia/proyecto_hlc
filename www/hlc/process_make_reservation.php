@@ -34,7 +34,7 @@ if($row){ // Devuelve el cliente
     $message = "<h2>No existe el cliente insertado<h2>";
 }
 
-header( "refresh:5;url=index.php" );
+header( "refresh:5;url=reservation_form.php" );
 
 include_once("menu.php");
 
