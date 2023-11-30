@@ -2,6 +2,13 @@
   width: 75%;
 }
 
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('RobotoSlab-Regular.ttf') format('ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+
 #contenedor {
   display: flex;
   justify-content: center;
@@ -11,7 +18,7 @@
 }
 
 #portrait-bakcground {
-  background-image: url("img/portada.jpg");
+  background-image: url("./portada.jpg");
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -68,9 +75,7 @@ form > *{
   --bs-light: #9ad5ff;
   --bs-dark: #003a3a;
 }
-.card{
-  max-width: 800px;
-}
+
 .toast > *{
   background-color: var(--bs-secondary);
 }
@@ -84,6 +89,7 @@ form > *{
 
 body {
   background-color: var(--bs-light);
+  font-family: 'Roboto Slab';
 }
 
 .card {
