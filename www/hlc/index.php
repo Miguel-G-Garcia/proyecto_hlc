@@ -90,7 +90,7 @@
 				<div class="card mb-3 mx-5" style="max-width: 800px;">
 					<div class="row g-0">
 						<div class="col-sm-3">
-							<img src="css/pfp/pfp_sin_foto.jpg" class=" mx-2 my-2">
+							<img src="pfp/pfp_sin_foto.jpg" class=" mx-2 my-2">
 						</div>
 						<div class="col-sm-8">
 							<div class="card-body">
@@ -107,7 +107,7 @@
 				<div class="card mb-3 mx-5" style="max-width: 800px;">
 					<div class="row g-0">
 						<div class="col-sm-3">
-							<img src="css/pfp/pfp_james.jpg" class=" mx-2 my-2"><!-- imagen del prota de silent hill -->
+							<img src="pfp/pfp_james.jpg" class=" mx-2 my-2"><!-- imagen del prota de silent hill -->
 						</div>
 						<div class="col-sm-8">
 							<div class="card-body">
@@ -123,7 +123,7 @@
 				<div class="card mb-3 mx-5" style="max-width: 800px;">
 					<div class="row g-0">
 						<div class="col-sm-3">
-							<img src="css/pfp/pfp_flor.jpg" class=" mx-2 my-2"><!--foto de unas flores-->
+							<img src="pfp/pfp_flor.jpg" class=" mx-2 my-2"><!--foto de unas flores-->
 						</div>
 						<div class="col-sm-8">
 							<div class="card-body">
@@ -141,7 +141,7 @@
 				<div class="card mb-3 mx-5" style="max-width: 800px;">
 					<div class="row g-0">
 						<div class="col-sm-3">
-							<img src="css/pfp/pfp_piramid.jpg" class=" mx-2 my-2"><!--piramid head-->
+							<img src="pfp/pfp_piramid.jpg" class=" mx-2 my-2"><!--piramid head-->
 						</div>
 						<div class="col-sm-8">
 							<div class="card-body">
@@ -156,7 +156,7 @@
 				<div class="card mb-3 mx-5" style="max-width: 800px;">
 					<div class="row g-0">
 						<div class="col-sm-3">
-							<img src="css/pfp/pfp_elon.jpg"
+							<img src="pfp/pfp_elon.jpg"
 								class=" mx-2 my-2"><!-- elon musk diciendo que tendria que llamarse hotel X -->
 						</div>
 						<div class="col-sm-8">
@@ -172,7 +172,7 @@
 				<div class="card mb-3 mx-5" style="max-width: 800px;">
 					<div class="row g-0">
 						<div class="col-sm-3">
-							<img src="css/pfp/pfp_soyYo.png" class=" mx-2 my-2"><!--soy yo :D-->
+							<img src="pfp/pfp_soyYo.png" class=" mx-2 my-2"><!--soy yo :D-->
 						</div>
 						<div class="col-sm-8">
 							<div class="card-body">
@@ -189,7 +189,7 @@
 				<div class="card mb-3 mx-5" style="max-width: 800px;">
 					<div class="row g-0">
 						<div class="col-sm-3">
-							<img src="css/pfp/pfp_mono.jpg"
+							<img src="pfp/pfp_mono.jpg"
 								class=" mx-2 my-2"><!--poner al mono y que puntue sobre platanos-->
 						</div>
 						<div class="col-sm-8">
@@ -205,7 +205,7 @@
 				<div class="card mb-3 mx-5" style="max-width: 800px;">
 					<div class="row g-0">
 						<div class="col-sm-3">
-							<img src="css/pfp/pfp_fnaf.png" class=" mx-2 my-2"><!--freddy diciendo har har harhar-->
+							<img src="pfp/pfp_fnaf.png" class=" mx-2 my-2"><!--freddy diciendo har har harhar-->
 						</div>
 						<div class="col-sm-8">
 							<div class="card-body">
