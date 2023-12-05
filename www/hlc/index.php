@@ -85,139 +85,138 @@
   </button>
 </div>
 
+		<div class="row row-cols-1 row-cols-xxl-2 g-4 my-2 d-flex align-items-center justify-content-center">
+			<div class="col">
+				<div class="card mb-3 mx-5" style="max-width: 800px;">
+					<div class="row g-0">
+						<div class="col-sm-3">
+							<img src="css/pfp/pfp_sin_foto.jpg" class=" mx-2 my-2">
+						</div>
+						<div class="col-sm-8">
+							<div class="card-body">
+								<h3 class="card-title">4/5</h3>
+								<h4 class="card-text">Esta bien pero me hubiera gustado que estuviera en un sitio con
+									mas lugares
+									interesantes.</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col">
+				<div class="card mb-3 mx-5" style="max-width: 800px;">
+					<div class="row g-0">
+						<div class="col-sm-3">
+							<img src="css/pfp/pfp_james.jpg" class=" mx-2 my-2"><!-- imagen del prota de silent hill -->
+						</div>
+						<div class="col-sm-8">
+							<div class="card-body">
+								<h2 class="card-title">1/5</h2>
+								<h4 class="card-text">Page para estar unas 2 semanas y estuvo todo el pueblo con niebla
+									densa.</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col">
+				<div class="card mb-3 mx-5" style="max-width: 800px;">
+					<div class="row g-0">
+						<div class="col-sm-3">
+							<img src="css/pfp/pfp_flor.jpg" class=" mx-2 my-2"><!--foto de unas flores-->
+						</div>
+						<div class="col-sm-8">
+							<div class="card-body">
+								<h2 class="card-title">5/5</h2>
+								<h4 class="card-text">Es fenomenal, aun que estaba caro...</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
-<div class="row row-cols-1 row-cols-md-2 g-4 my-2 d-flex align-items-center justify-content-center">
-  <div class="col">
-    <div class="card mb-3 mx-5" style="max-width: 800px;">
-      <div class="row g-0">
-        <div class="col-md-3">
-          <img src="pfp/pfp_sin_foto.jpg" class=" mx-2 my-2">
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h3 class="card-title">4/5</h3>
-            <h4 class="card-text">Esta bien pero me hubiera gustado que estuviera en un sitio con
-              mas lugares
-              interesantes.</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card mb-3 mx-5" style="max-width: 800px;">
-      <div class="row g-0">
-        <div class="col-md-3">
-          <img src="pfp/pfp_james.jpg" class=" mx-2 my-2"><!-- imagen del prota de silent hill -->
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h2 class="card-title">1/5</h2>
-            <h4 class="card-text">Page para estar unas 2 semanas y estuvo todo el pueblo con niebla
-              densa.</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card mb-3 mx-5" style="max-width: 800px;">
-      <div class="row g-0">
-        <div class="col-md-3">
-          <img src="pfp/pfp_flor.jpg" class=" mx-2 my-2"><!--foto de unas flores-->
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h2 class="card-title">5/5</h2>
-            <h4 class="card-text">Es fenomenal, aun que estaba caro...</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row row-cols-1 row-cols-md-2 g-4 my-2 d-flex align-items-center justify-content-center">
-  <div class="col">
-    <div class="card mb-3 mx-5" style="max-width: 800px;">
-      <div class="row g-0">
-        <div class="col-md-3">
-          <img src="pfp/pfp_piramid.jpg" class=" mx-2 my-2"><!--piramid head-->
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h2 class="card-title">3/5</h2>
-            <h4 class="card-text">Me encanta el ambiente y la niebla del lugar.</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card mb-3 mx-5" style="max-width: 800px;">
-      <div class="row g-0">
-        <div class="col-md-3">
-          <img src="pfp/pfp_elon.jpg"
-            class=" mx-2 my-2"><!-- elon musk diciendo que tendria que llamarse hotel X -->
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h2 class="card-title">2/5</h2>
-            <h4 class="card-text">Deberian de haberlo llamado Hotel X.</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card mb-3 mx-5" style="max-width: 800px;">
-      <div class="row g-0">
-        <div class="col-md-3">
-          <img src="pfp/pfp_soyYo.png" class=" mx-2 my-2"><!--soy yo :D-->
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h2 class="card-title">6/9</h2>
-            <h4 class="card-text">Ta chulo.</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row row-cols-1 row-cols-md-2 g-4 my-2 d-flex align-items-center justify-content-center">
-  <div class="col">
-    <div class="card mb-3 mx-5" style="max-width: 800px;">
-      <div class="row g-0">
-        <div class="col-md-3">
-          <img src="pfp/pfp_mono.jpg"
-            class=" mx-2 my-2"><!--poner al mono y que puntue sobre platanos-->
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h2 class="card-title">0/5</h2>
-            <h4 class="card-text">uh uh uh ah AH HA UH AH AH..... uh.</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card mb-3 mx-5" style="max-width: 800px;">
-      <div class="row g-0">
-        <div class="col-md-3">
-          <img src="pfp/pfp_fnaf.png" class=" mx-2 my-2"><!--freddy diciendo har har harhar-->
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h2 class="card-title">6/5</h2>
-            <h4 class="card-text">har har har harhar har har haar har haaarrrr.</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+		<div class="row row-cols-1 row-cols-xxl-2 g-4 my-2 d-flex align-items-center justify-content-center">
+			<div class="col">
+				<div class="card mb-3 mx-5" style="max-width: 800px;">
+					<div class="row g-0">
+						<div class="col-sm-3">
+							<img src="css/pfp/pfp_piramid.jpg" class=" mx-2 my-2"><!--piramid head-->
+						</div>
+						<div class="col-sm-8">
+							<div class="card-body">
+								<h2 class="card-title">3/5</h2>
+								<h4 class="card-text">Me encanta el ambiente y la niebla del lugar.</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col">
+				<div class="card mb-3 mx-5" style="max-width: 800px;">
+					<div class="row g-0">
+						<div class="col-sm-3">
+							<img src="css/pfp/pfp_elon.jpg"
+								class=" mx-2 my-2"><!-- elon musk diciendo que tendria que llamarse hotel X -->
+						</div>
+						<div class="col-sm-8">
+							<div class="card-body">
+								<h2 class="card-title">2/5</h2>
+								<h4 class="card-text">Deberian de haberlo llamado Hotel X.</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col">
+				<div class="card mb-3 mx-5" style="max-width: 800px;">
+					<div class="row g-0">
+						<div class="col-sm-3">
+							<img src="css/pfp/pfp_soyYo.png" class=" mx-2 my-2"><!--soy yo :D-->
+						</div>
+						<div class="col-sm-8">
+							<div class="card-body">
+								<h2 class="card-title">6/9</h2>
+								<h4 class="card-text">Ta chulo.</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row row-cols-1 row-cols-xxl-2 g-4 my-2 d-flex align-items-center justify-content-center">
+			<div class="col">
+				<div class="card mb-3 mx-5" style="max-width: 800px;">
+					<div class="row g-0">
+						<div class="col-sm-3">
+							<img src="css/pfp/pfp_mono.jpg"
+								class=" mx-2 my-2"><!--poner al mono y que puntue sobre platanos-->
+						</div>
+						<div class="col-sm-8">
+							<div class="card-body">
+								<h2 class="card-title">0/5</h2>
+								<h4 class="card-text">uh uh uh ah AH HA UH AH AH..... uh.</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col">
+				<div class="card mb-3 mx-5" style="max-width: 800px;">
+					<div class="row g-0">
+						<div class="col-sm-3">
+							<img src="css/pfp/pfp_fnaf.png" class=" mx-2 my-2"><!--freddy diciendo har har harhar-->
+						</div>
+						<div class="col-sm-8">
+							<div class="card-body">
+								<h2 class="card-title">6/5</h2>
+								<h4 class="card-text">har har har harhar har har haar har haaarrrr.</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
 </div>
 
