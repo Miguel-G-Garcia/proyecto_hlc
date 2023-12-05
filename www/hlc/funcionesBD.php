@@ -5,7 +5,7 @@ function obtenerConexion() {
     mysqli_report(MYSQLI_REPORT_OFF);
 
     // Importante, ajustar los siguientes parámetros
-    $conexion = new mysqli("db", "root", "test", "Estancias","3306");
+    $conexion = new mysqli("sql110.infinityfree.com", "if0_35554788", "FCjMzlKxiN", "if0_35554788_Estancias","3306");
     // $conexion = mysqli_connect('db', 'root', 'test', "empresa");
     mysqli_set_charset($conexion, 'utf8');
 

@@ -45,7 +45,6 @@
 							</li>
 
 							<li><a class="dropdown-item" href="list_Clients.php">Lista Clietes</a></li>
-							<li><a class="dropdown-item" href="">Buscar Cliente por id</a>
 							</li>
 						</ul>
 					</li>
